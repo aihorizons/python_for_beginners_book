@@ -1,0 +1,11 @@
+{
+    "name": "Alice",
+    "age": 30,
+    "city": "New York",
+    "hobbies": ["reading", "gardening", "painting"],
+    "is_student": false,
+    "address": {
+        "street": "123 Main St",
+        "zipcode": "10001"
+    }
+}
